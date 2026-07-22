@@ -56,3 +56,15 @@
   color: #3e4049;
   font-family: "Gamja Flower", sans-serif;
 }
+.upbody {
+  background-color: #c9b8c6;
+  width: 10%;
+  height: 10%;
+  border: 1px solid;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10%;
+  gap: 5px;
+}

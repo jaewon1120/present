@@ -55,6 +55,8 @@
   gap: 5px;
   color: #3e4049;
   font-family: "Gamja Flower", sans-serif;
+  justify-content: space-around;
+  align-items: start;
 }
 .upbody {
   background-color: #c9b8c6;
